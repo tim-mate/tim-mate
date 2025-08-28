@@ -2,11 +2,11 @@
 
 ### Hi there, I'm Timur 👋  
 
-- <span style="font-size: 20px; font-weight: 600;">T</span>eammate you want on board ⛵️
-- <span style="font-size: 20px; font-weight: 600;">I</span>nterested in solving difficult problems using software 🧩
-- <span style="font-size: 20px; font-weight: 600;">M</span>aintains discipline to learn and self-improve daily 📈
-- <span style="font-size: 20px; font-weight: 600;">U</span>tilizes the latest technologies to build web and mobile applications ⚙️
-- <span style="font-size: 20px; font-weight: 600;">R</span>each me: [timour.lutsenko@gmail.com](mailto:timour.lutsenko@gmail.com) 📪
+- **T**eammate you want on board ⛵️
+- **I**nterested in solving difficult problems using software 🧩
+- **M**aintains discipline to learn and self-improve daily 📈
+- **U**tilizes the latest technologies to build web and mobile applications ⚙️
+- **R**each me: [timour.lutsenko@gmail.com](mailto:timour.lutsenko@gmail.com) 📪
 
 ### My Stack  
 
